@@ -1,0 +1,23 @@
+{
+  "name": "graphql-bend-node",
+  "version": "1.0.0",
+  "description": "GraphQL Node Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obichukwu/graphql-bend-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obichukwu/graphql-bend-node/issues"
+  },
+  "homepage": "https://github.com/Obichukwu/graphql-bend-node#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.1"
+  }
+}
