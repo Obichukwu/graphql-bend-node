@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Obichukwu/graphql-bend-node#readme",
   "dependencies": {
+    "@prisma/client": "^2.13.1",
     "apollo-server": "^2.19.1"
+  },
+  "devDependencies": {
+    "@prisma/cli": "^2.13.1"
   }
 }
